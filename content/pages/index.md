@@ -57,7 +57,7 @@ sections:
           Real Estate Platform to manage rental properties. Designed for
           Landlords to track tenants with regards to their property agreements.
         align: left
-        image: images/feature.svg
+        image: images/real-state-cliffex.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
