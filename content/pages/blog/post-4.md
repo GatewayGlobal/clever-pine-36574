@@ -1,5 +1,7 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: >-
+  Inventory Management Tools for SMEs, such as as tradestores and informal
+  sector (POS)
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
