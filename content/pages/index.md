@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Gateway Global
     subtitle: >-
-      We are a tech company with a speciliaty in developing web platforms for
+      We are a tech company with a speciality in developing web platforms for
       various sectors. Below are some of our various web platforms we operate
       locally and internationally.
     actions:
