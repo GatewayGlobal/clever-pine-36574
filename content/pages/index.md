@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Gateway Global
-    subtitle: 'We are a '
+    subtitle: 'We are a web development '
     actions:
       - label: Learn More
         url: /features
