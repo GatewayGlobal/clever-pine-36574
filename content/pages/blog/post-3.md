@@ -1,5 +1,5 @@
 ---
-title: Cloud Based Recuitment platform
+title: Cloud Based Recruitment platform
 date: '2020-05-28'
 author: content/data/team/gordon-norman.yaml
 categories:
