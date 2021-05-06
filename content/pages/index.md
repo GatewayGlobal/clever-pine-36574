@@ -51,7 +51,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Gateway Properties
         content: >
           Real Estate Platform to manage rental properties. Designed for
           Landlords to track tenants with regards to their property agreements.
