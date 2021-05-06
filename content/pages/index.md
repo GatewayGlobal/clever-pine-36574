@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/business-team-discussing-ideas-startup_74855-4380.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
