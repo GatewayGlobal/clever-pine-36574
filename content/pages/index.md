@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: Gateway Market
         content: >
           Ecommerce marketplace for anything from household items to industrial
           tools
