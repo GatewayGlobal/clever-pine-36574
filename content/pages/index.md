@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Gateway Global
     subtitle: >-
-      We are a web development company that specializes in assisiting businesses
-      with setting up their web presence using web tools for a budget.
+      We are a tech company with a speciliaty in developing web platforms for
+      various sectors. Below are some of our various web platforms we operate
+      locally and internationally.
     actions:
       - label: Learn More
         url: /features
