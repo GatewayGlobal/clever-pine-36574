@@ -39,7 +39,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Gateway 3D
+      - title: Gateway Digital Marketplace
         content: >
           Digital Marketplace for website templates and 3D models for web
           projects.
