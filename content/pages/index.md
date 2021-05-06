@@ -33,7 +33,7 @@ sections:
           Ecommerce marketplace for anything from household items to industrial
           tools
         align: left
-        image: images/feature.svg
+        image: images/store-online-shopping-and-e-commerce-vector-22452099.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
