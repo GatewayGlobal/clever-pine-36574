@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/tesla.png"
+        "logo": "images/tesla.png",
+        "logo_alt": "Gateway Global"
     },
     "footer": {
         "has_nav": true,
