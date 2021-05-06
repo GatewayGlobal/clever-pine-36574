@@ -45,7 +45,7 @@ sections:
           Digital Marketplace for website templates and 3D models for web
           projects.
         align: left
-        image: images/feature.svg
+        image: images/vectors-and-graphic-design-digital-tools-free-vector.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
