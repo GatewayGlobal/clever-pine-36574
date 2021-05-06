@@ -5,7 +5,7 @@ sections:
     title: Gateway Global
     subtitle: >-
       We are a web development company that specializes in assisiting businesses
-      with setting up their web presence using 
+      with setting up their web presence using automation tools
     actions:
       - label: Learn More
         url: /features
