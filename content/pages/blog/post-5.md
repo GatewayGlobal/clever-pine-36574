@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Augmented Reality platform for Businesses to use in marketing
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
